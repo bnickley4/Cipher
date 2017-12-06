@@ -1,0 +1,9 @@
+Package: Cipher
+Title: Functions to Encipher and Decipher Text, Enabling Clandestine Communications
+Version: 0.0.0.9000
+Authors@R: person("Ben", "Nickley", email = "bnickley4@gmail.com", role = c("aut", "cre"))
+Description: Cipher contains codes for enciphering and deciphering text using a Running Key Cipher or a Caeser Cipher. This package also allows for primitive frequency analysis of letters in a text
+Depends: R (>= 3.3.2)
+License: Unlimited
+Encoding: UTF-8
+LazyData: true
